@@ -1,0 +1,1 @@
+ /home/user/stacktrace/.dart_tool/flutter_build/43a3f28fcc13982bd9052fb4c7c002e2/native_assets.yaml: 
